@@ -5,3 +5,12 @@ __pycache__/
 *.pyc
 .DS_Store
 __MACOSX/
+
+
+/Python_Practice1_Data.json
+/Python_Practice2_Data.json
+/errors.json
+/requirements.txt
+/valid_sales.csv
+/광주_3반_성가연1.py
+/광주_3반_성가연2.py
